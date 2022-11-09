@@ -52,8 +52,8 @@ Tecnicas e tecnologias que foram ultilizada nos site:
 - [X] Buscar sala do bolão pelo codigo da sala;
 
 <p align="center">
-  <img src="./Web.png"/>
-  <img src="./BolãodaCopa.png"/>
+  <img src="https://user-images.githubusercontent.com/81600908/200904000-ef70585c-5f09-4ce3-8b96-1f3155fe96f8.png"/>
+  <img src="https://user-images.githubusercontent.com/81600908/200903972-b585350c-7a73-4619-b447-8b532f11d310.png"/>
 </p>
 
 ## 🕹️ Como Utilizar
